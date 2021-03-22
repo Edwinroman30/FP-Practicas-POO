@@ -22,3 +22,6 @@ def Separdor(lista_enteros):
 Rellar_lista()
 Separdor(numEnteros)
 
+# I´m done teacher :)
+#Edwin Alberto Roman Seberino
+#Enrollment: 2020-10233
